@@ -1,5 +1,7 @@
 # Blockchain Voting: Revolutionizing Democracy with Transparent Technology
 
+![image](https://github.com/rahul13289/Blockchain-Voting-Revolutionizing-Technology/assets/97829880/91a0cb6f-69c6-4db1-9c06-5c9372ee945b)
+
 Creating a unique and attractive title for the implementation of blockchain technology with a voting system can help capture the attention of your audience and convey the key aspects of your project. Here are a few suggestions to inspire you:
 
 1. "Decentralized Democracy: Empowering Voting with Blockchain Technology"
